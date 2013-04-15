@@ -1,0 +1,24 @@
+{
+  "name": "node-shopsense",
+  "version": "0.0.0",
+  "description": "A node module to interact with the ShopSense API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tomgco/node-shopsense.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8f1acabc4a5ebd0c5c1ab1a9ad08808ddff66dfa",
+  "dependencies": {
+    "lodash": "~1.1.1",
+    "request": "~2.16.6"
+  }
+}
